@@ -1,2 +1,2 @@
-# Javascript
-JavaScript Projects
+# Javascript Projects
+
